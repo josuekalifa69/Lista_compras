@@ -3,6 +3,4 @@ pan
 huevo
 Queso
 Arroz
-Manzana
-Uva
-Banana
+
